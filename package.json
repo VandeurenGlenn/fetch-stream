@@ -1,6 +1,6 @@
 {
   "name": "fetch-stream",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "fetch-stream.js",
   "flat": true,
