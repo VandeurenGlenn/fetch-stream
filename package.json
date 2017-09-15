@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "fetch-stream.js",
+  "flat": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/vandeurenglenn/fetch-stream/issues"
   },
-  "homepage": "https://github.com/vandeurenglenn/fetch-stream#readme"
+  "homepage": "https://github.com/vandeurenglenn/fetch-stream#readme",
+  "dependencies": {
+    "clarinet": "^0.11.0"
+  }
 }

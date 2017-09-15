@@ -1,3 +1,6 @@
+const exports = {};
+import '../clarinet/clarinet.js';
+
 export default base =>
 class FetchStream extends base {
   static get observedAttributes() {
