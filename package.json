@@ -1,13 +1,13 @@
 {
-  "name": "fetch-stream",
+  "name": "fetch-a-stream",
   "version": "0.1.0",
   "description": "",
-  "main": "fetch-stream.js",
+  "main": "fetch-a-stream.js",
   "flat": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/vandeurenglenn/fetch-stream.git",
+  "repository": "git+https://github.com/vandeurenglenn/fetch-a-stream.git",
   "keywords": [
     "fetch",
     "stream"
@@ -15,9 +15,9 @@
   "author": "Glenn Vandeuren <vandeurenglenn@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vandeurenglenn/fetch-stream/issues"
+    "url": "https://github.com/vandeurenglenn/fetch-a-stream/issues"
   },
-  "homepage": "https://github.com/vandeurenglenn/fetch-stream#readme",
+  "homepage": "https://github.com/vandeurenglenn/fetch-a-stream#readme",
   "dependencies": {
     "clarinet": "^0.11.0"
   }

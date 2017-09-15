@@ -2,7 +2,7 @@ const exports = {};
 import '../clarinet/clarinet.js';
 
 export default base =>
-class FetchStream extends base {
+class FetchAStream extends base {
   static get observedAttributes() {
     return ['url', 'auto', 'format']
   }
